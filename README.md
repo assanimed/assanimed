@@ -3,6 +3,9 @@ IN PROGRESS...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assanimed)](https://github.com/anuraghazra/github-readme-stats)
 
+WORKING WITH
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assanimed&layout=compact&theme=radical)
+
 
 <!--
 **assanimed/assanimed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
