@@ -3,6 +3,9 @@ IN PROGRESS...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=assanimed&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+** Studing Computer Science at 1337MED @42 Network **
+[![melmhass's 42 stats](https://badge.mediaplus.ma/kettlebells/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK)
+
 **WORKING WITH**
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assanimed&layout=compact&theme=radical)
