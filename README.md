@@ -1,11 +1,10 @@
-<div style="text-align: center">
-### Hi there *I'm MOHAMED ELMHASSANI* 👋
-</div>
 
-<center>**& I'm Currently Studying Computer Science at 1337MED @42 Network**</center>
-<center>
+### Hi there *I'm MOHAMED ELMHASSANI* 👋
+
+**& I'm Currently Studying Computer Science at 1337MED @42 Network**
+
 [![melmhass's 42 stats](https://badge.mediaplus.ma/kettlebells/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK)
-</center>
+
 
 IN PROGRESS... 
 
