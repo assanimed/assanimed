@@ -1,8 +1,10 @@
+<div style="width: 100%;displat: flex;flex-direction: column;">
 ### Hi there *I'm MOHAMED ELMHASSANI* 👋
 
 **& I'm Currently Studying Computer Science at 1337MED @42 Network**
 
 [![melmhass's 42 stats](https://badge.mediaplus.ma/kettlebells/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK)
+</div>
 
 IN PROGRESS... 
 
