@@ -1,6 +1,6 @@
-<center>
+<div style="text-align: center">
 ### Hi there *I'm MOHAMED ELMHASSANI* 👋
-</center>
+</div>
 
 <center>**& I'm Currently Studying Computer Science at 1337MED @42 Network**</center>
 <center>
