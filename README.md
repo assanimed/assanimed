@@ -3,7 +3,7 @@
 
 **& I'm Currently Studying Computer Science at 1337MED @42 Network**
 
-[![melmhass's 42 stats](https://badge42.vercel.app/api/v2/cl9ll961j00930gl4ei5gfmwo/stats?cursusId=21&coalitionId=281)](https://github.com/assanimed/1337_CURSUS_TRACK)
+[![melmhass's 42 stats](https://badge.mediaplus.ma/darkblue/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK)
 
 
 IN PROGRESS... 
