@@ -1,11 +1,11 @@
 
 ### Hi there *I'm MOHAMED ELMHASSANI* 👋
 
-**& I'm Currently Studying Computer Science at 1337MED @42 Network**
+<!--**& I'm Currently Studying Computer Science at 1337MED @42 Network**-->
 
 [JavaScript | TypeScript | React | MySQL | Native PHP]
 
-[![melmhass's 42 stats](https://badge.mediaplus.ma/darkblue/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK)
+<!-- [![melmhass's 42 stats](https://badge.mediaplus.ma/darkblue/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK) -->
 
 
 IN PROGRESS... 
