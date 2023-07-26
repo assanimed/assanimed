@@ -3,6 +3,8 @@
 
 <!--**& I'm Currently Studying Computer Science at 1337MED @42 Network**-->
 
+### FullStack web Developer, Work Mainly With Laravel and Node.js for Backend. React and NEXT.js for Frontend.
+
 [JavaScript | TypeScript | React | MySQL | Native PHP]
 
 <!-- [![melmhass's 42 stats](https://badge.mediaplus.ma/darkblue/melmhass)](https://github.com/assanimed/1337_CURSUS_TRACK) -->
